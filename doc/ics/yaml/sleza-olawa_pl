@@ -1,0 +1,10 @@
+title: Związek Międzygminny Ślęza-Oława
+url: https://www.sleza-olawa.pl/
+country: PL
+howto: |
+  - Get the app https://kiedywywoz.pl/, addd your location and you will see link to your wast calendar
+  - Pobiueż aplikację https://kiedywywoz.pl/, dodaj swoją lokalizację a zobaczysz link do kalendarza
+test_cases:
+   Nadolice:
+       url: "https://kiedywywoz.pl/json2/ical.php?q=bfb7cb3c2a20"
+       
